@@ -1,0 +1,21 @@
+{
+  "name": "crawler-test",
+  "version": "0.0.1",
+  "description": "teste de crawler web",
+  "main": "app.js",
+  "dependencies": {
+    "crawler": "^1.1.4",
+    "request-x-ray": "^0.1.4",
+    "x-ray": "^2.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "test"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "Alexandre Parreira",
+  "license": "ISC"
+}
